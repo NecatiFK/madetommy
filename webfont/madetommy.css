@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-Black.woff2') format('woff2'),
+        url('MADETOMMY-Black.woff') format('woff'),
+        url('MADETOMMY-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-Medium.woff2') format('woff2'),
+        url('MADETOMMY-Medium.woff') format('woff'),
+        url('MADETOMMY-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-Light.woff2') format('woff2'),
+        url('MADETOMMY-Light.woff') format('woff'),
+        url('MADETOMMY-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-Bold.woff2') format('woff2'),
+        url('MADETOMMY-Bold.woff') format('woff'),
+        url('MADETOMMY-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY.woff2') format('woff2'),
+        url('MADETOMMY.woff') format('woff'),
+        url('MADETOMMY.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-ExtraBold.woff2') format('woff2'),
+        url('MADETOMMY-ExtraBold.woff') format('woff'),
+        url('MADETOMMY-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TOMMY';
+    src: url('MADETOMMY-Thin.woff2') format('woff2'),
+        url('MADETOMMY-Thin.woff') format('woff'),
+        url('MADETOMMY-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
